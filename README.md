@@ -1,5 +1,5 @@
 ﻿# DEV MASTERS<br>
-<h1>Mão na Massa</h1>
+ <h2 style="border-bottom: none;">Mão na Massa</h2>
 
 **Projeto Integrado - Senai DS1T**
 
