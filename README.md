@@ -25,5 +25,3 @@
 ## SOP (marcel)
 
 ## LOPAL (leonid)
-
-<img width="660" height="991" alt="image" src="https://github.com/user-attachments/assets/0d7a013a-4757-45d1-b6e6-6f689092f865" />
