@@ -4,7 +4,9 @@
 # Integrantes
 [Kalel Santos](https://github.com/kalelsantos)<br>
 **Contribuição Técnica:**<br>
-Irá liderar o desenvolvimento do Banco de Dados e da interface gráfica do sistema com Python/Streamlit (LOPAL) e auxiliará na estruturação responsiva da Landing Page em HTML/CSS (LIMA)<br>
+Irá liderar o desenvolvimento do Banco de Dados e da interface gráfica do sistema com Python/Streamlit (LOPAL) e auxiliará na estruturação responsiva da Landing Page em HTML/CSS (LIMA)
+<br>
+<br>
 [Herique Batista](https://github.com/henriquebatista09)<br>
 **Contribuição Técnica:**<br>
 Responsável por toda a documentação técnica, englobando a criação do Documento de Visão, Cronograma detalhado e Matriz de Requisitos. <br>
