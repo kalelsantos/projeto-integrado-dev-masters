@@ -9,7 +9,9 @@ Irá liderar o desenvolvimento do Banco de Dados e da interface gráfica do sist
 <br>
 [Herique Batista](https://github.com/henriquebatista09)<br>
 **Contribuição Técnica:**<br>
-Responsável por toda a documentação técnica, englobando a criação do Documento de Visão, Cronograma detalhado e Matriz de Requisitos. <br>
+Responsável por toda a documentação técnica, englobando a criação do Documento de Visão, Cronograma detalhado e Matriz de Requisitos.
+<br>
+<br>
 [Samuel Pretti](https://github.com/samuelpretti)<br>
 **Contribuição Técnica:**<br>
 Irá focar no desenvolvimento da identidade visual e da responsividade da Landing Page em HTML/CSS (LIMA) e apoiará na integração do banco de dados SQLite no sistema principal Python/Streamlit(LOPAL)<br>
