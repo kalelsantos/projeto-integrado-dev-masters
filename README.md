@@ -1,4 +1,4 @@
-﻿# Mão na Massa
+﻿# DEV MASTERS
 **Projeto Integrado - Senai DS1T**
 
 # Integrantes
@@ -9,7 +9,7 @@ Irá liderar o desenvolvimento do Banco de Dados e da interface gráfica do sist
 <br>
 [Herique Batista](https://github.com/henriquebatista09)<br>
 **Contribuição Técnica:**<br>
-Responsável por toda a documentação técnica, englobando a criação do Documento de Visão, Cronograma detalhado e Matriz de Requisitos.
+Responsável por toda a documentação técnica, englobando a criação do Documento de Visão, Cronograma detalhado e Matriz de Requisitos(LER).
 <br>
 <br>
 [Samuel Pretti](https://github.com/samuelpretti)<br>
