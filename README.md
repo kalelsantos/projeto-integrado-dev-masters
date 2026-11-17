@@ -1,5 +1,5 @@
 ﻿# DEV MASTERS<br>
-## Mão na Massa
+<h1>Mão na Massa</h1>
 **Projeto Integrado - Senai DS1T**
 
 # Integrantes
