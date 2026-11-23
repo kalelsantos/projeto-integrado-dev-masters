@@ -26,7 +26,10 @@ Irá focar no desenvolvimento da identidade visual e da responsividade da Landin
 **[Regras de Negócio do Sistema 19.11.2026](./pastas-das-materias/LER/Regra-de-Negócio-Mão-na-Massa.pdf)**<br>
 **[Levantamento de Requisitos Funcionais Landing Page 19.11.2026](./pastas-das-materias/LER/Levantamendo-de-Requisitos-Funcionais_LANDING-PAGE..pdf)**<br>
 **[Link Wireframe Landing Page 19.11.2026](https://wireframe.cc/fcdu8U)**<br>
-**[Link Wireframe Sistema Python 19.11.2026](https://wireframe.cc/LUqDHd)**
+**[Link Wireframe Sistema Python 19.11.2026](https://wireframe.cc/LUqDHd)**<br>
+**[Levantamento de Requisitos Funcionais da Infraestrutura de Redes](./pastas-das-materias/LER/Levantamento-de-Requisitos-Funcionais-Infraestrutura.pdf)**
+**[Levantamento de Requisitos Não Funcionais da Infraestrutura de Redes](./pastas-das-materias/LER/Levantamento-de-Requisitos-Não-funcionais-Infraestrutura.pdf)**
+**[Regras de Negócio da Infraestrutura de Redes](./pastas-das-materias/LER/Regra-de-Negócio-Infraestrutura.pdf)**
 
 ## Arquitetura de Redes e IOT (ARI)
 
