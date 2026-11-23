@@ -32,10 +32,11 @@ Irá focar no desenvolvimento da identidade visual e da responsividade da Landin
 
 ## Linguagem de Marcação (LIMA)
 **[Descrição sobre a Landing Page 19.11.2026](./pastas-das-materias/LIMA/Documento-Landing-Page.pdf)** <br>
-**[Protótipo de alta fidelidade da Landing Page de divulgação 23.11.2026](https://www.figma.com/design/x2sBcwjTv0GbglUEfwyLu4/Sem-t%C3%ADtulo?node-id=0-1&t=pWz35feYfPoo7tTa-1)**
+**[Protótipo de Alta Fidelidade da Landing Page de divulgação 23.11.2026](https://www.figma.com/design/x2sBcwjTv0GbglUEfwyLu4/Sem-t%C3%ADtulo?node-id=0-1&t=pWz35feYfPoo7tTa-1)**
 
 ## Sistemas Operacionais (SOP)
 
 
 ## Lógica de Programação e ÁLgoritmo (LOPAL)
+
 
