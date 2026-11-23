@@ -42,4 +42,5 @@ Irá focar no desenvolvimento da identidade visual e da responsividade da Landin
 
 ## Lógica de Programação e ÁLgoritmo (LOPAL)
 
-**[Repositório Código-Fonte do Sistema Python](https://github.com/kalelsantos/projeto-integrado-python)**
+**[Repositório Código-Fonte do Sistema Python](https://github.com/kalelsantos/projeto-integrado-python)**<br>
+**[Link Wireframe Sistema Python 19.11.2026](https://wireframe.cc/LUqDHd)**
