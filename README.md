@@ -34,6 +34,7 @@ Irá focar no desenvolvimento da identidade visual e da responsividade da Landin
 ## Arquitetura de Redes e IOT (ARI)
 
 ## Linguagem de Marcação (LIMA)
+**[Repositório com o Código-Fonte da Landing Page](https://github.com/kalelsantos/projeto-integrado-landing-page)** <br>
 **[Descrição sobre a Landing Page 19.11.2026](./pastas-das-materias/LIMA/Documento-Landing-Page.pdf)** <br>
 **[Protótipo de Alta Fidelidade da Landing Page de divulgação 23.11.2026](https://www.figma.com/design/x2sBcwjTv0GbglUEfwyLu4/Sem-t%C3%ADtulo?node-id=0-1&t=pWz35feYfPoo7tTa-1)**
 
