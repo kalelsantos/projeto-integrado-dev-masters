@@ -21,7 +21,7 @@ Irá focar no desenvolvimento da identidade visual e da responsividade da Landin
 ## Levantamento de Requisitos (LER)
 **[Resumo / Escopo do Sistema - 16.11.2026](./pastas-das-materias/LER/Escopo-Resumo-de-Projeto..pdf)**<br>
 **[Documento de Visão e Cronograma - 17.11.2026-18.11.2026](./pastas-das-materias/LER/Documento-de-Visão-e-Cronograma-corrigido.pdf)**<br>
-**[Requisitos Funcionais do Sistema 19.11.2026](./pastas-das-materias/LER/Levantamento-de-Requisitos-Funcionais-Mão-na-Massa.pdf)**<br>
+**[Requisitos Funcionais do Sistema 19.11.2026](./pastas-das-materias/LER/Levantamento-de-Requisitos-Funcionais-Sistema..pdf)**<br>
 **[Requisitos Não Funcionais do Sistema 19.11.2026](./pastas-das-materias/LER/Levantamento-de-Requisitos-Não-Funcionais-Mão-na-Massa.pdf)**<br>
 **[Regras de Negócio do Sistema 19.11.2026](./pastas-das-materias/LER/Regra-de-Negócio-Mão-na-Massa.pdf)**<br>
 **[Levantamento de Requisitos Funcionais Landing Page 19.11.2026](./pastas-das-materias/LER/Levantamendo-de-Requisitos-Funcionais_LANDING-PAGE..pdf)**<br>
